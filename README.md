@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ti.crisswas7@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/kUY01](https://shorturl.at/kUY01)
+- 📄 Know about my experiences [[https://shorturl.at/kUY01](https://bit.ly/Resume-ChristianWidi)]([https://shorturl.at/kUY01](https://bit.ly/Resume-ChristianWidi))
 
 - ⚡ Fun fact **Game is My Life, I also Develope Mobile Game**
 
