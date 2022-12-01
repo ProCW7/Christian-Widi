@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ti.crisswas7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1C-7pplGGnQZYA7nJ7-0G0d_TN2VZF1Xl?usp=share_link](https://drive.google.com/drive/folders/1C-7pplGGnQZYA7nJ7-0G0d_TN2VZF1Xl?usp=share_link)
+- 📄 Know about my experiences (https://urlis.net/ChristianWidi)
 
 - ⚡ Fun fact **Game is My Life, I also Develope Mobile Game**
 
