@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ti.crisswas7@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Resume-ChristianWidi](https://bit.ly/Resume-ChristianWidi)
+- 📄 Know about my experiences [https://bit.ly/ResumeChristianWidi](https://bit.ly/ResumeChristianWidi)
 
 - ⚡ Fun fact **Game is My Life, I also Develope Mobile Game**
 
