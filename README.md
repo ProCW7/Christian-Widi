@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Christian Widi or ProCW7</h1>
 <h3 align="center">A passionate Full Stack Developer who love Coding</h3>
 
-- 🔭 I’m currently working on [Factorem Project Portal](https://github.com/ProCW7/Factorem-Project-Portal)
+- 🔭 I’m currently working on [DMB.SG Support Hours Project](https://github.com/ProCW7/SupportHour)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Laravel, Game Development**
 
